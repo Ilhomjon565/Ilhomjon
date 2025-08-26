@@ -29,6 +29,5 @@
 ---
 
 ## 📫 Bog‘lanish
-- Telegram: [@username](https://t.me/username)  
-- Email: yourmail@gmail.com  
-- LinkedIn: [LinkedIn Profil](https://linkedin.com/in/username)  
+- Telegram: [@csec_webcoder](https://t.me/csec_webcoder)  
+- Email: ilhomjoniskandarov2006@gmail.com    
