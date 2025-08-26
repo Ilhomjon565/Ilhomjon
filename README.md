@@ -1,33 +1,50 @@
-# 👋 Salom, men Ilhomjon!
+# Salom, men Ilhomjon!
 
-🚀 Full-stack Web Developer | Pentester | EDUCRM Creator  
+**Full-stack Web Developer | Pentester | EDUCRM Creator**
 
-💡 Men asosan quyidagilar bilan ishlayman:  
-- **Frontend:** React.js, Material-UI, TailwindCSS  
-- **Backend:** Node.js, Express, PostgreSQL  
-- **Security:** Web Pentesting, Automation  
+**Men asosan quyidagilar bilan ishlayman:**
+- **Frontend:** React.js · Material-UI · TailwindCSS
+- **Backend:** Node.js · Express · PostgreSQL
+- **Security:** Web Pentesting · Automation
 
-📚 Hozirda men **Education CRM tizimi** ustida ishlayapman.  
-
----
-
-## 🔧 Texnologiyalar va Tools:
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript) 
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js) 
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql) 
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react) 
-![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux) 
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)  
+Hozirda **Education CRM tizimi** ustida ishlayapman.
 
 ---
 
-## 📊 Github Statistikam
-![Ilhomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
+##  Texnologiyalar:
+![JavaScript](...badge...) ![Node.js](...) ![React](...) ![PostgreSQL](...) ![Git](...) ![Linux](...)
 
 ---
 
-## 📫 Bog‘lanish
-- Telegram: [@csec_webcoder](https://t.me/csec_webcoder)  
-- Email: ilhomjoniskandarov2006@gmail.com    
+##  GitHub Statistikam:
+![GitHub Stats](...)  
+![Top Languages](...)
+
+---
+
+##  Loyihalar:
+| Loyiha         | Tavsif                              | Link                         |
+|----------------|--------------------------------------|------------------------------|
+| EDUCRM         | Ta'limni avtomatlashtiruvchi tizim | [Demo / Repo](#)             |
+| Web Pentesting | Turli pentesting tajribalari        | [Repo link](#)               |
+
+---
+
+##  Demo Video:
+[![EDUCRM Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+---
+
+##  Muloqot qilish:
+- **Telegram:** [@csec_webcoder](https://t.me/csec_webcoder)  
+- **Email:** ilhomjoniskandarov2006@gmail.com
+
+---
+
+##  Kutubxonalar & O‘rganish:
+- **📚 O‘rganilayotgan:** TypeScript, Next.js, Docker  
+- **⭐ Kelajakda:** AI security, DevOps
+
+---
+
+> “Every day is a learning day.” – Men har kuni o‘rganaman.
